@@ -31,7 +31,7 @@ About me
 </div>
 &nbsp;
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hxhcreate&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=hxhcreate&theme=tokyoight" />
 </div>
 &nbsp;
 
