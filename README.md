@@ -20,7 +20,9 @@ About me
 &nbsp;
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" /><span>  </span>
+    &nbsp;
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 &nbsp;
