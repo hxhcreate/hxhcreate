@@ -27,7 +27,7 @@ About me
 </div>
 &nbsp;
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
 </div>
 &nbsp;
 <div align="center">
