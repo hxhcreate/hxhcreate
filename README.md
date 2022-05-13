@@ -11,8 +11,6 @@
 </p>
 
 ## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F1FF64&center=true&vCenter=true&multiline=true&width=500&height=40&lines=Welcome+to+My+Github!+Have+a+nice+Day!!)](https://git.io/typing-svg)
 About me
 - 🔭 I’m currently working on **云视项目后端**
 - 🌱 I’m currently learning **DL** **NLP** **Android**
@@ -24,13 +22,13 @@ About me
 - ⚡ Fun fact: hhhh
 
 
-<div align="left">
-<span>  </span>
-<img height="170px" width="50%" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" /><span>  </span>
+
+
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" />
     &nbsp;
-<img height="170px" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8&theme=tokyonight" />
-<span>  </span>
-</div>
+<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8&theme=tokyonight" />
+
+
 
 &nbsp;
 <div align="center">
