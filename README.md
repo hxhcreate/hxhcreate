@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F1FF64&center=true&vCenter=true&multiline=true&width=500&height=40&lines=Welcome+to+My+Github!+Have+a+nice+Day!!)](https://git.io/typing-svg)
 
+
+<img align='right' src="https://raw.githubusercontent.com/hxhcreate/hxhcreate/master/name.svg" alt="hxhcreate" />
+
 About me
 - 🔭 I’m currently working on **云视项目后端**
 - 🌱 I’m currently learning **DL** **NLP** **Android**
