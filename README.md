@@ -24,9 +24,9 @@ About me
 
 
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" />
     &nbsp;
-<img align="left" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8&theme=tokyonight" />
+<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8&theme=tokyonight" />
 
 
 
