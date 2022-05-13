@@ -10,6 +10,12 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=F1FF64&center=true&vCenter=true&multiline=true&width=500&height=40&lines=Welcome+to+My+Github!+Have+a+nice+Day!!" alt="typing-svg">
 </p>
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" />
+    &nbsp;
+<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8&theme=tokyonight" />
+
+
+
 ## Hi there 👋
 About me
 - 🔭 I’m currently working on **云视项目后端**
@@ -20,13 +26,6 @@ About me
 - 📫 How to reach me: **hxh_create@163.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: hhhh
-
-
-
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hxhcreate&count_private=true&show_icons=true&theme=tokyonight" />
-    &nbsp;
-<img align="right" width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&layout=compact&langs_count=8&theme=tokyonight" />
 
 
 
