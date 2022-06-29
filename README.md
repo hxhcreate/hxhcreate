@@ -16,7 +16,7 @@
 
 ## About me 👋
 
-- 🔭 I’m currently working on **云视项目后端**
+- 🔭 I’m currently working on **云视项目后端**  Intership in Company[CityDNA Tech](https://www.citydnatech.com/) 
 - 🌱 I’m currently learning **DL** **NLP** **Android**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
