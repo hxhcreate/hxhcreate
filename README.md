@@ -16,7 +16,7 @@
 
 ## About me 👋
 
-- 🔭 I’m currently working on ****  Intership in Company[CityDNA Tech](https://www.citydnatech.com/) 
+- 🔭 I’m currently working on ****  once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/) 
 - 🌱 I’m currently learning **DL** **System**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
