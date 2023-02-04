@@ -16,14 +16,14 @@
 
 ## About me 👋
 
-- 🔭 I’m currently working on ****  once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/) 
+<!-- - 🔭 I’m currently working on ****  once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/) 
 - 🌱 I’m currently learning ****
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: **hxh_create@163.com**
 - 😄 Pronouns: ...
-- ⚡ Fun fact: hhhh
+- ⚡ Fun fact: hhhh -->
 
 ## 📈Statistics
 <div align="center">
