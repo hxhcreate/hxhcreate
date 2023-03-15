@@ -18,12 +18,12 @@
 
 - 🔭 I’m currently working on NLP ContentGeneration  
 <!-- - once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/)  -->
-- 🌱 I’m currently learning ****
+<!-- - 🌱 I’m currently learning ****
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... -->
 - 📫 How to reach me: **hxh_create@outlook.com*
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: hhhh
 
 ## 📈Statistics
