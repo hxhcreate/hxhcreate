@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: **hxh_create@outlook.com*
+- 📫 How to reach me: **hxh_create@outlook.com**
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: hhhh
 
