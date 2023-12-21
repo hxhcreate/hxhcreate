@@ -26,18 +26,12 @@
 - 😄 Fun facts about me: hhhh
 
 ## 📈Statistics
-<div align="center">
-    
-</div>
+![Metrics](https://metrics.lecoq.io/hxhcreate?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
-&nbsp;
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
 
-&nbsp;
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=hxhcreate&theme=react-dark" />
-</div>
+
 
 ## 📺Social
 
