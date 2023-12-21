@@ -31,6 +31,7 @@
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&hide=tex,html)
 
 
 ## 📺Social
