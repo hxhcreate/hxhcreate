@@ -16,9 +16,8 @@
 
 ## About me 👋
 
-- 🌱 I’m currently learning and working on LLMs Safety  
-<!-- - once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/)  -->
-<!-- - 🔭 I’m currently learning **** -->
+- 🌱 I’m currently learning and working on LLMs Safety
+- 🔭 I’m currently a research intern at [ShanghaiAILab](https://www.shlab.org.cn)
 - 👯 I’m looking to collaborate on any research topics related to LLMs and Agents
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything [here](https://github.com/hxhcreate/hxhcreate/issues)
@@ -33,9 +32,9 @@
 </div>
 
 &nbsp;
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
-</div>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
+
 &nbsp;
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=hxhcreate&theme=react-dark" />
