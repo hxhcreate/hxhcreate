@@ -38,8 +38,9 @@
 ## 📺Social
 
 ## 🎯Sign Up Everyday
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
+</div>
 
 ## 🔥Lately Activity Graph
 
