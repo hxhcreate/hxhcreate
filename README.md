@@ -26,10 +26,8 @@
 - 😄 Fun facts about me: hhhh
 
 ## 📈Statistics
-![Metrics](https://metrics.lecoq.io/hxhcreate?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-
-
+<!-- ![Metrics](https://metrics.lecoq.io/hxhcreate?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxhcreate&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&hide=tex,html)
@@ -38,6 +36,7 @@
 ## 📺Social
 
 ## 🎯Sign Up Everyday
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
 </div>
