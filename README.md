@@ -26,10 +26,10 @@
 - 😄 Fun facts about me: hhhh
 
 ## 📈Statistics
-[Metrics](https://metrics.lecoq.io/hxhcreate?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/hxhcreate?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxhcreate&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxhcreate&hide=tex,html)
@@ -37,7 +37,11 @@
 
 ## 📺Social
 
-## 🔥Lately Activity
+## 🎯Sign Up Everyday
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hxhcreate&theme=tokyonight" />
+
+## 🔥Lately Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hxhcreate&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
