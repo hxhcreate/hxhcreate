@@ -16,15 +16,14 @@
 
 ## About me 👋
 
-- 🔭 I’m currently learning and working on LLMs Safety  
+- 🌱 I’m currently learning and working on LLMs Safety  
 <!-- - once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/)  -->
-<!-- - 🌱 I’m currently learning ****
+<!-- - 🔭 I’m currently learning **** -->
 - 👯 I’m looking to collaborate on any research topics related to LLMs and Agents
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything [here](https://github.com/hxhcreate/hxhcreate/issues)
 - 📫 Reach me by email: **hxh_create@outlook.com**
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: hhhh
+- 😄 Fun facts about me: hhhh
 
 ## 📈Statistics
 <div align="center">
@@ -50,8 +49,6 @@
 
 
 **hxhcreate/hxhcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 
