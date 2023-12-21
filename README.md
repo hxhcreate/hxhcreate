@@ -16,13 +16,13 @@
 
 ## About me 👋
 
-- 🔭 I’m currently working on NLP ContentGeneration  
+- 🔭 I’m currently learning and working on LLMs Safety  
 <!-- - once intershiped in Company[CityDNA Tech](https://www.citydnatech.com/)  -->
 <!-- - 🌱 I’m currently learning ****
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on any research topics related to LLMs and Agents
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-- 📫 How to reach me: **hxh_create@outlook.com**
+- 💬 Ask me about anything [here](https://github.com/hxhcreate/hxhcreate/issues)
+- 📫 Reach me by email: **hxh_create@outlook.com**
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: hhhh
 
@@ -43,10 +43,10 @@
 </div>
 
 ## 📺Social
-:s
 
-## 😆 Fun
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+## 🔥Lately Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hxhcreate)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 **hxhcreate/hxhcreate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
