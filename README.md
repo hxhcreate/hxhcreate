@@ -6,7 +6,8 @@
     <img algin="center" src="https://readme-typing-svg.herokuapp.com?color=F1FF64&center=true&vCenter=true&multiline=true&width=500&height=40&lines=Welcome+to+My+Github!+Have+a+nice+Day!!" alt="typing-svg" />
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=3DTopia.3DTopia" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=hxhcreate.hxhcreate" />
+
 
 <!--<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=hxhcreate" /> </div>-->
 
