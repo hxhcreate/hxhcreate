@@ -17,10 +17,8 @@
 - 🌱 I’m currently learning and working on LLMs Safety
 - 🔭 I’m currently a research intern at [ShanghaiAILab](https://www.shlab.org.cn)
 - 👯 I’m looking to collaborate on any research topics related to LLMs and Agents
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything [here](https://github.com/hxhcreate/hxhcreate/issues)
 - 📫 Reach me by email: **hxh_create@outlook.com**
-- 😄 Fun facts about me: hhhh
 
 ## 📺Social
 <p align="center">
