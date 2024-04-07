@@ -23,7 +23,7 @@
 ## 📺Social
 <p align="center">
      <a title="github" target="_blank" href="https://github.com/hxhcreate"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhxhcreate&labelColor=282c34&color=353940&logo=github&longCache=true" /></a>
-<!--     <a title="zhihu" target="_blank" href="https://www.zhihu.com/people/okczong-hui-ying-de"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fokczong-hui-ying-de&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600" ></a> -->
+    <a title="zhihu" target="_blank" href="https://www.zhihu.com/people/okczong-hui-ying-de"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fokczong-hui-ying-de&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600" ></a>
 
 </p>
 
