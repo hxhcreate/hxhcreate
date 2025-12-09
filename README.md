@@ -14,11 +14,10 @@
 
 ## About me 👋
 
-- 🌱 I’m currently learning and working on LLMs Safety
-- 🔭 I’m currently a research intern at [ShanghaiAILab](https://www.shlab.org.cn)
-- 👯 I’m looking to collaborate on any research topics related to LLMs and Agents
+- 🌱 I’m currently learning and working on MLLM Agent
+- 👯 I’m looking to collaborate on any research topics related to MLLMs and Agents
 - 💬 Ask me about anything [here](https://github.com/hxhcreate/hxhcreate/issues)
-- 📫 Reach me by email: **hxh_create@outlook.com**
+- 📫 Reach me by email: **xuhaohu08@gmail.com**
 
 ## 📺Social
 <p align="center">
